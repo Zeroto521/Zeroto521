@@ -1,6 +1,17 @@
 # 👋 Hi there
 
-## 📊 Weekly development
+## :speech_balloon: About me
+
+An informal developer.
+
+In Chinese, that would be '野生的程序员'.
+
+## :see_no_evil: Creed which I believe
+
+- Do one thing and do the best. That also means 'less is more'.
+- Do the thing until to the end. That also means 'Never forget why you started'.
+
+## :chart_with_upwards_trend: Last 7 days my coding stats
 
 <!--START_SECTION:waka-->
 ```text
@@ -11,7 +22,3 @@ Vue.js       1 hr 24 mins    █▓░░░░░░░░░░░░░░░
 Git Config   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 <!--END_SECTION:waka-->
-
-## 📅 Github stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Zeroto521&ount_private=true&show_icons=true)](https://github.com/Zeroto521)
