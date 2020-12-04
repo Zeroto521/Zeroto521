@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       4 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-JavaScript   4 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Markdown     3 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.81 % 
-Vue.js       1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Other        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Python       7 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.41 % 
+JavaScript   6 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.05 % 
+Markdown     4 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Vue.js       1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Git Config   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 <!--END_SECTION:waka-->
 
