@@ -15,7 +15,7 @@ In Chinese, that would be '野生的程序员'.
 
 <!--START_SECTION:waka-->
 ```text
-Other    1 hr 24 mins    ████████████████▒░░░░░░░░   64.95 % 
-Python   44 mins         ████████▓░░░░░░░░░░░░░░░░   34.24 % 
+Markdown     1 hr 49 mins    █████████████▒░░░░░░░░░░░   53.00 % 
+HTML         1 hr 36 mins    ███████████▓░░░░░░░░░░░░░   46.53 % 
 ```
 <!--END_SECTION:waka-->
