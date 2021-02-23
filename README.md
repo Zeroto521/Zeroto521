@@ -15,10 +15,10 @@ In Chinese, that would be '野生的程序员'.
 
 <!--START_SECTION:waka-->
 ```text
-Other      7 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   40.73 % 
-Python     4 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-Markdown   2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-HTML       1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-JSON       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Other      8 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.07 % 
+Python     5 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.27 % 
+Markdown   3 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+HTML       1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+JSON       1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 <!--END_SECTION:waka-->
