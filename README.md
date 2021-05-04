@@ -15,10 +15,10 @@ In fact, _development_ is not my main work. It's my hobby.
 
 <!--START_SECTION:waka-->
 ```text
-Other      17 hrs 45 mins  ████████████████░░░░░░░░░   64.01 % 
-CSV        4 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Python     2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Markdown   1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-YAML       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other      12 hrs 22 mins  ██████████████▒░░░░░░░░░░   57.97 % 
+CSV        4 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Python     2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Markdown   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+YAML       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 ```
 <!--END_SECTION:waka-->
