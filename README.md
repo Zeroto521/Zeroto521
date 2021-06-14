@@ -17,10 +17,10 @@ Actually, I'm a data scientist, especially in geographic data mining.
 
 <!--START_SECTION:waka-->
 ```text
-Other      21 hrs 3 mins   █████████████▒░░░░░░░░░░░   52.85 % 
-Python     12 hrs 11 mins  ███████▓░░░░░░░░░░░░░░░░░   30.61 % 
-YAML       3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Markdown   1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Other      20 hrs 37 mins  █████████████░░░░░░░░░░░░   51.70 % 
+Python     12 hrs 43 mins  ████████░░░░░░░░░░░░░░░░░   31.91 % 
+YAML       3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Markdown   1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 Makefile   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 <!--END_SECTION:waka-->
