@@ -17,6 +17,10 @@ Actually, I'm a data scientist, especially in geographic data mining.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     3 hrs 7 mins    ███████████████░░░░░░░░░░   60.18 % 
+Markdown   43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Other      33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Git        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+INI        22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 ```
 <!--END_SECTION:waka-->
