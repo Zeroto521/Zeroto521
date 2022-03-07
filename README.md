@@ -16,11 +16,9 @@ Actually, I'm a data scientist, especially in geographic data mining.
 ## :chart_with_upwards_trend: Last 7 days my coding stats
 
 <!--START_SECTION:waka-->
+
 ```text
-Other      15 hrs 26 mins  ████████████████████░░░░░   79.40 % 
-Python     2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Markdown   1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-YAML       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-INI        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other   29 hrs 18 mins  ████████████████████████▓   99.13 %
 ```
+
 <!--END_SECTION:waka-->
