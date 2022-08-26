@@ -1,5 +1,10 @@
 # 👋 Hi there
 
+I'm *40%*.
+
+> It's a nickname and the real name also in a way.
+> My real name pronunciation is similar to *forty percent* ('四成') in Chinese.
+
 ## :speech_balloon: About me
 
 An informal developer. In Chinese, I'm called it as '野生的程序员'.
