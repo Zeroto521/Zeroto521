@@ -23,9 +23,9 @@ Actually, I'm a data scientist, especially in geographic data mining.
 <!--START_SECTION:waka-->
 
 ```txt
-Other    18 hrs 47 mins  ██████████████████▓░░░░░░   74.70 %
-SQL      6 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
-Python   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Other    14 hrs 50 mins  ███████████████▓░░░░░░░░░   62.16 %
+SQL      8 hrs 53 mins   █████████▒░░░░░░░░░░░░░░░   37.24 %
+Python   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
