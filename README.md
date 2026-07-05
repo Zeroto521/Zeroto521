@@ -23,11 +23,11 @@ Actually, I'm a data scientist with a focus on geographic data mining and operat
 <!--START_SECTION:waka-->
 
 ```txt
-Python             23 hrs 32 mins        ███████████████▓░░░░░░░░░   63.24 %
-JavaScript         4 hrs 33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Markdown           3 hrs 21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Other              2 hrs 53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-YAML               56 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Python             21 hrs 5 mins         ███████████████░░░░░░░░░░   59.87 %
+JavaScript         3 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Other              3 hrs 2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Markdown           2 hrs 46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+CSS                2 hrs 10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
