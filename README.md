@@ -23,11 +23,11 @@ Actually, I'm a data scientist with a focus on geographic data mining and operat
 <!--START_SECTION:waka-->
 
 ```txt
-Fork         32 hrs 57 mins        ███████████████▓░░░░░░░░░   62.48 %
-Markdown     4 hrs 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Other        4 hrs 18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Python       3 hrs 19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Git          3 hrs 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Fork         27 hrs 38 mins        ████████████████░░░░░░░░░   64.55 %
+Markdown     3 hrs 43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Python       3 hrs 19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Git          3 hrs 2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Cython       2 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
 ```
 
 <!--END_SECTION:waka-->
